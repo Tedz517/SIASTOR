@@ -1,0 +1,4 @@
+database/
+application/config/database.php
+assets/attachment
+notes.txt

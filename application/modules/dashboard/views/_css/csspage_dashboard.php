@@ -1,0 +1,2 @@
+<link href="assets/plugins/fullcalendar/fullcalendar.min.css" rel="stylesheet" type="text/css" />
+<link href="assets/plugins/fullcalendar/fullcalendar.print.css" rel="stylesheet" type="text/css" media='print' />
